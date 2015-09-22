@@ -51,7 +51,7 @@ Build the project and run, you will find this is a good custom tabbarcontroller.
     
 ## Example
 It is very easy to use FSTabBarController while custom TabBar, you can take a look at the following demo
-<img src = "http://7x2w39.com1.z0.glb.clouddn.com/tabbar_example" />
+<img src = "http://7x2w39.com1.z0.glb.clouddn.com/tabbar_example.gif" />
 
 ## License
 Copyright © 2015 王方帅.
